@@ -1,0 +1,39 @@
+Local verification — 2026-10-01
+Host: Windows 11; Python 3.12.14; Node.js 22.16.0; headless Google Chrome.
+
+python -m pytest -q
+PASS: 640 tests. One upstream Starlette/httpx deprecation warning; no failures.
+
+python -m backend.scripts.verify_catalog
+PASS: 72 legal silhouettes / 216 expression assemblies.
+Deterministic PNGs, margin, baseline, palette, mask roles, regions,
+connectivity, and visibility verified; contact sheets reviewed visually.
+
+python -m backend.scripts.benchmark
+PASS: five two-player games; provider concurrency = 3.
+Recorded local timings in docs/benchmark.json; fixtures, not real-provider load.
+
+frontend: tsc -b
+PASS: strict TypeScript checking.
+
+frontend: vitest run
+PASS: 3 unit tests.
+
+frontend: vite build
+PASS: 430 modules transformed; production assets emitted.
+
+frontend: playwright test
+PASS: 18 browser tests, including one-session StrictMode bootstrap,
+delayed description acknowledgment/draft preservation, full two-profile match,
+refresh, forced replacement, play again, membership, responsive/keyboard UI,
+terminal states, expiration, and reconnect with older-snapshot rejection.
+
+python -m compileall -q backend
+PASS.
+
+git diff --check
+PASS: no whitespace errors.
+
+Total automated test cases passed: 661 (640 backend + 3 frontend + 18 browser).
+No live-provider match or physical two-computer/deployed-host acceptance run.
+See docs/acceptance.md for exact scope and remaining external verification.

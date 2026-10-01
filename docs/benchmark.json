@@ -1,0 +1,18 @@
+{
+  "host": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.14",
+  "provider": "explicit offline demo",
+  "games": 5,
+  "players": 10,
+  "generation_concurrency": 3,
+  "preparation_seconds": 0.603,
+  "turn_ms": [
+    0.674,
+    0.652,
+    0.637,
+    0.618,
+    0.607
+  ],
+  "turn_during_other_generation_ms": 0.222,
+  "scope": "Local service process only; excludes remote provider and network latency."
+}

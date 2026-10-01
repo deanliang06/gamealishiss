@@ -1,0 +1,2018 @@
+[
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_fluffy_zigzag",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_fluffy_zigzag",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_fluffy_zigzag",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_fluffy_zigzag",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_fluffy_zigzag",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_fluffy_zigzag",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_fluffy_zigzag",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "fox_large_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_fluffy_zigzag",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_tall_triangles",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "none",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "cat_round",
+      "body": "compact_torso",
+      "ears": "paired_round_ears",
+      "tail": "single_cat_curve",
+      "limbs": "short_paws",
+      "eyes": "alert",
+      "wings": "paired_small_feather",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "paired_small_horns"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "paired_small_horns"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "paired_small_horns"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "none",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "paired_small_horns"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "paired_short_fins",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "paired_short_fins",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "paired_short_fins",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "paired_short_fins",
+      "tail": "none",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "paired_short_fins",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "paired_short_fins",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "none",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "paired_short_fins",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "none"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  },
+  {
+    "schema_version": "1",
+    "canvas": [
+      64,
+      64
+    ],
+    "silhouette": {
+      "body_family": "biped",
+      "head": "lizard_round",
+      "body": "compact_torso",
+      "ears": "paired_short_fins",
+      "tail": "single_lizard_taper",
+      "limbs": "short_claws",
+      "eyes": "alert",
+      "wings": "paired_small_bat",
+      "horns": "single_forehead_horn"
+    },
+    "pose": "front_three_quarter",
+    "palette_rules": {
+      "max_colors": 5,
+      "base": "#3878C8",
+      "highlight": "#8CC8F0",
+      "accent": "#F0C840",
+      "shadow": "#204878",
+      "outline": "#282830"
+    },
+    "regions": []
+  }
+]

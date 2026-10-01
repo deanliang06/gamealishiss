@@ -1,0 +1,582 @@
+{
+  "version": "1",
+  "renderer_version": "1",
+  "anchors": {
+    "body": [
+      32,
+      41
+    ],
+    "head": [
+      32,
+      31
+    ],
+    "ears": [
+      32,
+      17
+    ],
+    "tail": [
+      40,
+      44
+    ],
+    "limbs": [
+      32,
+      44
+    ],
+    "wings": [
+      32,
+      34
+    ],
+    "horns": [
+      32,
+      16
+    ],
+    "eyes": [
+      32,
+      24
+    ]
+  },
+  "parts": {
+    "compact_torso": {
+      "slot": "body",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 40,
+          "mask_offset": [
+            -10,
+            -11
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:belly": "main_region_belly.png"
+          }
+        }
+      ]
+    },
+    "fox_large_round": {
+      "slot": "head",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 50,
+          "mask_offset": [
+            -15,
+            -17
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:head": "main_region_head.png",
+            "region:muzzle": "main_region_muzzle.png"
+          }
+        }
+      ]
+    },
+    "cat_round": {
+      "slot": "head",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 50,
+          "mask_offset": [
+            -15,
+            -16
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:head": "main_region_head.png",
+            "region:muzzle": "main_region_muzzle.png"
+          }
+        }
+      ]
+    },
+    "lizard_round": {
+      "slot": "head",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 50,
+          "mask_offset": [
+            -15,
+            -17
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:head": "main_region_head.png",
+            "region:muzzle": "main_region_muzzle.png"
+          }
+        }
+      ]
+    },
+    "paired_tall_triangles": {
+      "slot": "ears",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 70,
+          "mask_offset": [
+            -14,
+            -11
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:ear_tips": "main_region_ear_tips.png"
+          }
+        }
+      ]
+    },
+    "paired_round_ears": {
+      "slot": "ears",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 70,
+          "mask_offset": [
+            -16,
+            -8
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:ear_tips": "main_region_ear_tips.png"
+          }
+        }
+      ]
+    },
+    "paired_short_fins": {
+      "slot": "ears",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 70,
+          "mask_offset": [
+            -16,
+            -5
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png"
+          }
+        }
+      ]
+    },
+    "single_fluffy_zigzag": {
+      "slot": "tail",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 10,
+          "mask_offset": [
+            -1,
+            -15
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:tail_tip": "main_region_tail_tip.png"
+          }
+        }
+      ]
+    },
+    "single_cat_curve": {
+      "slot": "tail",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 10,
+          "mask_offset": [
+            -1,
+            -15
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:tail_tip": "main_region_tail_tip.png"
+          }
+        }
+      ]
+    },
+    "single_lizard_taper": {
+      "slot": "tail",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 10,
+          "mask_offset": [
+            -1,
+            -10
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:tail_tip": "main_region_tail_tip.png"
+          }
+        }
+      ]
+    },
+    "short_paws": {
+      "slot": "limbs",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 30,
+          "mask_offset": [
+            -14,
+            -9
+          ],
+          "masks": {
+            "occupancy": "far_occupancy.png",
+            "base": "far_base.png",
+            "highlight": "far_highlight.png",
+            "accent": "far_accent.png",
+            "shadow": "far_shadow.png",
+            "outline": "far_outline.png",
+            "region:paws": "far_region_paws.png"
+          }
+        },
+        {
+          "layer": 60,
+          "mask_offset": [
+            3,
+            -9
+          ],
+          "masks": {
+            "occupancy": "near_occupancy.png",
+            "base": "near_base.png",
+            "highlight": "near_highlight.png",
+            "accent": "near_accent.png",
+            "shadow": "near_shadow.png",
+            "outline": "near_outline.png",
+            "region:paws": "near_region_paws.png"
+          }
+        }
+      ]
+    },
+    "short_claws": {
+      "slot": "limbs",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 30,
+          "mask_offset": [
+            -14,
+            -9
+          ],
+          "masks": {
+            "occupancy": "far_occupancy.png",
+            "base": "far_base.png",
+            "highlight": "far_highlight.png",
+            "accent": "far_accent.png",
+            "shadow": "far_shadow.png",
+            "outline": "far_outline.png"
+          }
+        },
+        {
+          "layer": 60,
+          "mask_offset": [
+            3,
+            -9
+          ],
+          "masks": {
+            "occupancy": "near_occupancy.png",
+            "base": "near_base.png",
+            "highlight": "near_highlight.png",
+            "accent": "near_accent.png",
+            "shadow": "near_shadow.png",
+            "outline": "near_outline.png"
+          }
+        }
+      ]
+    },
+    "paired_small_bat": {
+      "slot": "wings",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 20,
+          "mask_offset": [
+            -25,
+            -7
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:wing_membrane": "main_region_wing_membrane.png"
+          }
+        }
+      ]
+    },
+    "paired_small_feather": {
+      "slot": "wings",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 20,
+          "mask_offset": [
+            -25,
+            -7
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:wing_feathers": "main_region_wing_feathers.png"
+          }
+        }
+      ]
+    },
+    "single_forehead_horn": {
+      "slot": "horns",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 80,
+          "mask_offset": [
+            -4,
+            -8
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:horns": "main_region_horns.png"
+          }
+        }
+      ]
+    },
+    "paired_small_horns": {
+      "slot": "horns",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 80,
+          "mask_offset": [
+            -9,
+            -7
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png",
+            "region:horns": "main_region_horns.png"
+          }
+        }
+      ]
+    },
+    "alert": {
+      "slot": "eyes",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 90,
+          "mask_offset": [
+            -8,
+            -2
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png"
+          }
+        }
+      ]
+    },
+    "gentle": {
+      "slot": "eyes",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 90,
+          "mask_offset": [
+            -8,
+            -1
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png"
+          }
+        }
+      ]
+    },
+    "fierce": {
+      "slot": "eyes",
+      "family": "biped",
+      "pose": "front_three_quarter",
+      "local_origin": [
+        0,
+        0
+      ],
+      "fragments": [
+        {
+          "layer": 90,
+          "mask_offset": [
+            -8,
+            -2
+          ],
+          "masks": {
+            "occupancy": "main_occupancy.png",
+            "base": "main_base.png",
+            "highlight": "main_highlight.png",
+            "accent": "main_accent.png",
+            "shadow": "main_shadow.png",
+            "outline": "main_outline.png"
+          }
+        }
+      ]
+    }
+  }
+}
